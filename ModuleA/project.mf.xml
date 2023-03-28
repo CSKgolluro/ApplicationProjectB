@@ -4,8 +4,8 @@
         <crown name="ModuleA">
             <desc>user script</desc>
         </crown>
-        <meta key="author">Roy Gollub</meta>
-        <meta key="version">1.0</meta>
+        <meta key="author">SICK AG</meta>
+        <meta key="version">0.2.0</meta>
         <meta key="priority">low</meta>
         <meta key="copy-protected">false</meta>
         <meta key="read-protected">false</meta>

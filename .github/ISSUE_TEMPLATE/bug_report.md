@@ -7,7 +7,7 @@ assignees: golluroSICKAG
 
 ---
 
-**Describe the bug**
+**Describe the bug**  
 A clear and concise description of what the bug is.
 
 **CSK module (please complete the following information):**
@@ -17,17 +17,18 @@ A clear and concise description of what the bug is.
  - Type: [e.g. SIM2500, SAE, ...]
  - Firmware [e.g. ver1.3.0]
 
-**To Reproduce**
+**To Reproduce**  
 Steps to reproduce the behavior:
 1. Go to '...'
 2. Click on '....'
-3. See error
+3. ...
+4. See error
 
-**Expected behavior**
+**Expected behavior**  
 A clear and concise description of what you expected to happen.
 
-**Screenshots**
+**Screenshots**  
 If applicable, add screenshots to help explain your problem.
 
-**Additional context**
+**Additional context**  
 Add any other context about the problem here.

@@ -1,7 +1,7 @@
 ---
 name: Bug report
 about: Create a report to help us improve
-title: "[BUG]"
+title: "[BUG] - [ShortDescription]"
 labels: bug
 assignees: golluroSICKAG
 
@@ -10,10 +10,10 @@ assignees: golluroSICKAG
 **Describe the bug**  
 A clear and concise description of what the bug is.
 
-**CSK module (please complete the following information):**
+**CSK module:**
  - Version: [e.g. 1.2.0]
 
-**AppSpace device used (please complete the following information):**
+**AppSpace device used:**
  - Type: [e.g. SIM2500, SAE, ...]
  - Firmware [e.g. ver1.3.0]
 
